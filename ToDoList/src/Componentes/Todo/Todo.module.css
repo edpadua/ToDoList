@@ -1,0 +1,8 @@
+.nome_atividade{
+   margin-right: 5px;
+}
+
+.nome_atividade_done{
+    margin-right: 5px;
+    text-decoration: line-through;
+}

@@ -1,0 +1,9 @@
+.form_adicionar{
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.form_group_adicionar{
+    display: flex;
+    width: 100%;
+}
