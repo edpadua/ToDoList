@@ -1,8 +1,12 @@
 #root {
   width: 100%;
   margin: 0 auto;
-  padding: 2rem;
+  
   text-align: center;
+}
+
+.principal{
+  min-height:100vh;
 }
 
 .todo {

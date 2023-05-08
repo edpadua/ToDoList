@@ -8,6 +8,10 @@
 
 :root {
   --font-principal:'Dosis', sans-serif;
+  --branco:#ffffff;
+  --preto:#000000;
+  --roxo:#583d8d;
+  --roxo_hover:#3a2761;
   line-height: 1.5;
   font-weight: 400;
 
@@ -68,4 +72,12 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+
+footer{
+  display: block;
+  width: 100%;
+  background-color: var(--preto);
+  height: 300px;
 }

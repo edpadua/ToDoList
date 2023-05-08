@@ -7,3 +7,14 @@
     display: flex;
     width: 100%;
 }
+
+.button_add{
+    background-color: var(--roxo);
+    font-weight: 600;
+    border: none !important;
+}
+
+.button_add:hover{
+    background-color: var(--roxo_hover);
+    border: none !important;
+}

@@ -1,8 +1,10 @@
 .nome_atividade{
    margin-right: 5px;
+   font-size: 25px;
 }
 
 .nome_atividade_done{
+    font-size: 25px;
     margin-right: 5px;
     text-decoration: line-through;
 }

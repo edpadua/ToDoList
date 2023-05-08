@@ -23,7 +23,7 @@ function Entrada({ addTodo }) {
                 
                 <Form.Control type="text" className="input" value={value} onChange={e => setValue(e.target.value)} placeholder="Adicionar novo item" />
             </Form.Group>
-            <Button variant="primary mb-3" type="submit">
+            <Button className={styles.button_add} type="submit">
                 Inserir
             </Button>
         </Form>
