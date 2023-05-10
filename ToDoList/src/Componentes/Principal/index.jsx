@@ -22,13 +22,17 @@ function Principal() {
     ]);
 
     const addTodo = text => {
-        const newTodos = [...todos, { text }];
+        console.log("text",text)
+        const newTodos = [...todos, { text:text, isDone:false }];
+        newTodos.isDone=false;
+        console.log("newTodos",newTodos)
         setTodos(newTodos);
     };
 
 
     const markTodo = index => {
         const newTodos = [...todos];
+        console.log("newTodos",newTodos)
         if(newTodos[index].isDone == false){
             setCountDone(countDone + 1);
             newTodos[index].isDone = true;
