@@ -1,7 +1,7 @@
 # ToDoList
 
 <h1>
-    <a href="https://to-do-list-edpadua.vercel.app/"><img src="restaurante/public/restaurante-capture.gif"></a>
+    <a href="https://to-do-list-edpadua.vercel.app/"><img src="ToDoList/public/todolist-capture.gif"></a>
 </h1>
 
 # Summary
@@ -26,10 +26,6 @@ In this project, the Bootstrap library was used, which already offers some ready
 ### :iphone: Tablets design
 
 ![image](https://github.com/edpadua/ToDoList/assets/4975360/8776a4c6-9143-4b0d-8477-fa451e806097)
-
-### :iphone: Mobile design
-
-<img src="https://user-images.githubusercontent.com/4975360/235657640-4e846e3c-8213-4943-97e8-2d2b82c24367.jpg" style="width: 50%;">
 
 
 ### [🌐 Demo](to-do-list-edpadua.vercel.app)
